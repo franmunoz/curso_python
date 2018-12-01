@@ -1,3 +1,4 @@
+#!/usr/bin/python
 edad = int(input('ingrese edad: '))
 if edad >= 18:
     print('mayor de edad')

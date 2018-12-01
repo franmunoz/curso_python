@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from random import *
 intento = int(input('ingrese intentos: '))
 for i in range(intento):

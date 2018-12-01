@@ -1,3 +1,4 @@
+#!/usr/bin/python
 plato = ['', 'pastel', 'tequeño', 'empanada', 'queso']
 print (plato)
 print (plato[3])

@@ -1,3 +1,4 @@
+#!/usr/bin/python
 cantidad = int(input('ingrese cantidad de cauchos a comprar: '))
 i = 0
 compra = 0

@@ -1,3 +1,4 @@
+#!/usr/bin/python
 simple = 87
 print simple
 print type(simple)

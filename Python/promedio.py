@@ -1,3 +1,4 @@
+#!/usr/bin/python
 n = int(input('ingrese la cantidad de datos: '))
 suma = 0
 for i in range(n):

@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from random import *
 #apuesta = int(input('ingrese un monto: '))
 n = int(input('ingrese cantidad de intentos '))

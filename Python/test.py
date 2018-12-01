@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from random import *
 x = 0
 i = 0
